@@ -28,20 +28,40 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement
 
 
-## Screenshots
+## Screenshots -
+![Screenshot (17)](https://github.com/20a31a04u4/project23/assets/113761483/71b88a39-dff3-4ecc-a700-f2a09ac14090)
+
+
+
 
 
 ### About Us -
+
+
+
+![Screenshot (15)](https://github.com/20a31a04u4/project23/assets/113761483/979855bf-edba-4dbb-b7ad-430b345e953f)
+
+![Screenshot (16)](https://github.com/20a31a04u4/project23/assets/113761483/32d88754-6baf-46f2-b37c-5d225b6644b6)
+
+
 
 
 ### Contact us -
 
 
 
-### Health bot
+
+
+![Screenshot (14)](https://github.com/20a31a04u4/project23/assets/113761483/6fe97f34-a9eb-4c21-a5b0-1fc7956a9b0d)
+
+
+### Health bot -
 
 
 
+
+
+![Screenshot (18)](https://github.com/20a31a04u4/project23/assets/113761483/83f270ff-b291-43b6-8fd5-17749b3cd69e)
 
 
 ## Tech Stach 

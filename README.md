@@ -1,5 +1,5 @@
 
-#Dentile
+## Dentile
 
 This is a web based application developed for health related based website in india
 
@@ -15,7 +15,7 @@ This is a web based application developed for health related based website in in
 -Healthbot
 
 
-#Features and Functionalities
+## Features and Functionalities
 
 
 

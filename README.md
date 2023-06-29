@@ -1,5 +1,5 @@
 
-## Dentile
+##  🌟 Dentile  🌟 
 
 This is a web based application developed for health related based website in india
 
@@ -64,7 +64,7 @@ This is a web based application developed for health related based website in in
 ![Screenshot (18)](https://github.com/20a31a04u4/project23/assets/113761483/83f270ff-b291-43b6-8fd5-17749b3cd69e)
 
 
-## Tech Stach 
+## Tech Stach 🖥️
 
 - Azure(Hosting)
 - HTML
